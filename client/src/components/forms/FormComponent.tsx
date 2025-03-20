@@ -124,7 +124,7 @@ const FormComponent = () => {
             >
                 Generate Unique Room Id
             </button>
-        </div>
+        </div> 
     )
 }
 
